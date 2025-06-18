@@ -1,11 +1,8 @@
 fileFormatVersion: 2
-guid: cdb2b908ef6cb8b45aba3615cdf5b909
+guid: 7f7a29e544b2e884680b0678126524a7
 NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
   userData: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 368
-  packageName: Playmaker
-  packageVersion: 1.9.9
-  assetPath: Assets/PlayMaker/Editor/Resources/EditorStartupPrefs.asset
-  uploadId: 736611
+  assetBundleName: 
+  assetBundleVariant: 
