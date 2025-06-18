@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 241045277e2984ae7a05818ca51cbdbe
+timeCreated: 1495640726
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Space Marine
+  fontNames:
+  - Space Marine
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91435
+  packageName: 3D Showroom Level Kit Vol 4
+  packageVersion: 2.0
+  assetPath: Assets/_Creepy_Cat/_ShowRoom_Vol 4/_Textures/SM.TTF
+  uploadId: 684415
