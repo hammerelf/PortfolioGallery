@@ -1,3 +1,5 @@
+using DG.Tweening;
+using Sirenix.OdinInspector;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -11,8 +13,9 @@ public class HealthBar : MonoBehaviour
         healthSlider = GetComponent<Slider>();
     }
 
-    private void Update()
+    [Button]
+    public void TweenHealth(float finalValue, float duration, Ease easeMode)
     {
-
+        healthSlider.DOValue(finalValue, duration).SetEase(easeMode);
     }
 }
